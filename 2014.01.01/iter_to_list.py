@@ -2,6 +2,8 @@
 # Author: Justin Chen
 # Date: 2014.1.1
 
+#Note: generate list from iter
+
 class TestIter:
     '''print list from iter'''
     def __init__(self):
