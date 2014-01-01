@@ -2,6 +2,8 @@
 # Author: Justin Chen
 # Date: 2014.01.01
 
+#Note: add fibonacci func
+
 class Fibs:
     '''print Fibonacci number less than 1000'''
     def __init__(self):
