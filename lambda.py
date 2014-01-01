@@ -1,4 +1,7 @@
 # normal func
+# Author: Justin Chen
+# Date: 2013.12.31
+
 def f(x):
     return x * 2
 
