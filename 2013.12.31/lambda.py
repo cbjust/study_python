@@ -2,6 +2,8 @@
 # Author: Justin Chen
 # Date: 2013.12.31
 
+#Note: use lambda simply
+
 def f(x):
     return x * 2
 
