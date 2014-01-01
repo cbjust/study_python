@@ -2,6 +2,8 @@
 # Author: Justin Chen
 # Date: 2013.12.31
 
+#Note: one way to replace symbols between words
+
 # this function is just used to replace '---/--', do you have better func to replace whatever between words?
 def checkio(string):
     """use '-' to replace the extra symbols like '---' or '-' between words"""
