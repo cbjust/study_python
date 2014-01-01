@@ -6,7 +6,7 @@
 #Note: zh-rCN: 递归生成器，解析多层嵌套
 
 def flatten(nested):
-    '''Parsing nested: recursion with using yield '''
+    '''Parsing nested: recursion with using yield'''
     try:
         for sublist in nested:
             for element in flatten(sublist):
